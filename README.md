@@ -22,6 +22,7 @@ Atualmente atuo em [área administrativa] e busco [Analista de dados].
 **Resultado principal:** [insira 1 insight real da sua análise]  
 📁 [Ver projeto](projetos/excel/)
 
+https://github.com/AllanPrete/Portifolio-/blob/main/README%20analise_ifdata_excel_setembro2025.xlsx
 ---
 
 ### 🗄️ Consultas SQL — Sistema Financeiro Brasileiro
@@ -30,6 +31,7 @@ Atualmente atuo em [área administrativa] e busco [Analista de dados].
 **Resultado principal:** [insira 1 insight real da sua análise]  
 📁 [Ver projeto](projetos/sql/)
 
+https://github.com/AllanPrete/Portifolio-/blob/main/README%20Query%20IFData_Portifolio.sql
 ---
 
 ### 📈 Dashboard Power BI — IF.data
@@ -38,6 +40,7 @@ Atualmente atuo em [área administrativa] e busco [Analista de dados].
 **Resultado principal:** [insira 1 insight real da sua análise]  
 📁 [Ver projeto](projetos/powerbi/) | 🌐 [Ver dashboard online]([link do Power BI Service])
 
+https://github.com/AllanPrete/Portifolio-/blob/main/Dashboard_IFData_09_2025_Top100.pbix
 ---
 
 ### 🐍 Análise Python — Sistema Financeiro com Pandas e Seaborn
@@ -46,6 +49,7 @@ Atualmente atuo em [área administrativa] e busco [Analista de dados].
 **Resultado principal:** [insira 1 insight real da sua análise]  
 📁 [Ver projeto](projetos/python/)
 
+https://github.com/AllanPrete/Portifolio-/blob/main/README%20Modulo6PythonPortifolio.ipynb
 ---
 
 ## Stack tecnológica
